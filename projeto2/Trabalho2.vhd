@@ -1,6 +1,7 @@
 --Nome Projeto: Trabalho 2
 --Data: 21/09/2023
 --Nome: Leonardo Felipe Pacuola/1911406
+--      Esdras Fernandes da Cruz/2097184
 
 LIBRARY IEEE;
 USE ieee.std_logic_1164.all;
